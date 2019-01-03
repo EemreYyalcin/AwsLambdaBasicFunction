@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.bean.ConfigBean",
+      "sourceType": "com.bean.ConfigBean"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.dummy-value",
+      "type": "java.lang.String",
+      "sourceType": "com.bean.ConfigBean"
+    }
+  ],
+  "hints": []
+}
